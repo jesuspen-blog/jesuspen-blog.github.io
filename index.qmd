@@ -1,5 +1,5 @@
 ---
-title: "sooo bro website"
+title: "Hyoungsoo Kim"
 image: bio-picture.jpg
 about:
   template: solana #jolla trestles
@@ -19,4 +19,10 @@ about:
       href: "mailto:sooooo.bro@gmail.com"
 ---
 
-This is a Quarto website for sooo bro. I added this.
+I am an incoming associate for the <span style="color:#011F5B;">**Global Business Planning & Management Division**</span> at <span style="color:#011F5B;">**Samsung Fire & Marine Insurance**</span>. 
+
+You can either call me <span style="color:#011F5B;">**Hyoungsoo (H-Young-Soo)**</span> or <span style="color:#011F5B;">**Andy (my english name)**</span>.
+
+I am currently interested in organic & inorganic growth strategies for primarily domestic businesses in the finance sector.
+
+For any further inquiries, email me or reach out via linkedin.
