@@ -7,7 +7,7 @@ categories:
   - announcement
 ---
 
-Well, this is my first experience in blogging and using github websites. Special thanks to my brother [Hyoungchul Kim](https://hchulkim.github.io) for kickstarting this page. As a non-coder to the bone, I would never have pulled it off without help. Guess having a geek-economist Ph.D student pays off after all.
+Well, this is my first experience in blogging and using github websites. Special thanks to my brother [Hyoungchul Kim](https://hchulkim.github.io) for kickstarting this page. As a non-coder to the bone, I would never have pulled it off without help. Guess having a geek-Ph.D student as a brother pays off after all.
 
 This website will have two primary purposes for me. #1 is `Personal Documentation`, and #2 is `Linkable Online Resume`. I will mostly focus on my personal blogging in #1, and my career related activities in #2. The biggest challenge will be motivating myself to keep documenting parts of my life on this website. Guess i'll have to hope for interesting things worth writing about to come along.
 
