@@ -1,12 +1,12 @@
 ---
 title: "sooo bro website"
-image: bio-picture.jpeg
+image: bio-picture.jpg
 about:
   template: solana #jolla trestles
   links:
     - icon: file-text-fill 
       text: CV
-      href: Resume_KIM, HYOUNGSOO_251221.pdf
+      href: Resume_KIMHYOUNGSOO_251221.pdf
     - icon: github
       text: Github
       href: https://github.com/jesuspen-blog
