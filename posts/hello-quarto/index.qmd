@@ -9,6 +9,8 @@ categories:
 
 Well, this is my first experience in blogging and using github websites. Special thanks to my brother [Hyoungchul Kim](https://hchulkim.github.io) for kickstarting this page. As a non-coder to the bone, I would never have pulled it off without help. Guess having a geek-economist Ph.D student pays off after all.
 
-This website will have two primary purposes for me. #1 is `Personal Anecdotes and Thought posting`, and #2 is `A Linkable Online Resume`. I will mostly focus on my personal blogging in #1, and my career related activities in #2. The biggest challenge will be motivating myself to keep documenting parts of my life on this website. Guess i'll have to hope for interesting things worth writing about to come along.
+This website will have two primary purposes for me. #1 is `Personal Documentation`, and #2 is `A Linkable Online Resume`. I will mostly focus on my personal blogging in #1, and my career related activities in #2. The biggest challenge will be motivating myself to keep documenting parts of my life on this website. Guess i'll have to hope for interesting things worth writing about to come along.
 
-Thats all for this first post, Lets hope it doesn't end up being the last. Cheers!
+What I plan for writing in #1 are `Reviews`, `Anecdotes`, and `Shitposts`. Categories for #2 are not determined yet; will update thoughout next year. If some posts are better off writing in korean, I will probably do so.
+
+Thats all for this first post, lets hope it doesn't end up being the last. Cheers!
