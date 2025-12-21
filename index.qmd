@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-text-fill 
       text: CV
-      href: Resume_KIMHYOUNGSOO_251221.pdf
+      href: vita/resume-soo.pdf
     - icon: github
       text: Github
       href: https://github.com/jesuspen-blog
