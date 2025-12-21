@@ -1,0 +1,5 @@
+---
+title: "sooo bro website"
+---
+
+This is a Quarto website for sooo bro. I added this.
