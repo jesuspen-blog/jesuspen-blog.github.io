@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - vita/resume-soo.pdf
 
 website:
   site-url: "https://jesuspen-blog.github.io"
