@@ -3,14 +3,26 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://jesuspen-blog.github.io"
   title: "김형수"
+  page-footer: "Copyright Hyoung Soo Kim, 2025"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-
+      - text: Home
+        href: index.qmd
+      # - text: CV
+      #   href: vita/cv-kim.pdf 
+      # - research/index.qmd
+      # - teaching/index.qmd
+      - text: Blog
+        href: posts/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/jesuspen-blog
+  favicon: favicon.ico
+  open-graph: true
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
     css: styles.css
-    toc: true
