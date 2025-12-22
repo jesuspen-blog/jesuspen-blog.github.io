@@ -66,6 +66,12 @@ Before moving on, let me show you one of the *strangest*  resume requirements of
 
 Like... WTF? Just one of many strange requirements out there, mostly for old - middle sized firms. When rummaging through the job posts in the korean job market, there are a surprising lot of resume requirements like these.
 
+## Aptitude Tests
+
+Like most other companies worldwide, South Korean firms also require applicants to take their own aptitude tests. Some use their own, while others use 3rd party programs. Samsung uses GSAT, while most others use a test designed by Jobda. Jobda's gamification tests and interviews are generally easy to handle. My personal take is that Jobda tests are just a very light screening tool, or just a convenient excuse for taking more time to review the applicant's resumes.
+
+GSAT was a totally different story. Since this test was here for a long time, there were already multiple books covering the types of questions, and time saving gimmicks. I had to 'git gud' in a short amount of time so that I could make it into the 3~5 multiple. It was a nightmare. Endless repetition of mock tests, pushing myself so that I could get more answers in a limited amount of time, sometimes it felt like way too much for me mentally. All I can say is... Thank God Its Over.
+
 ## Interviews
 
 All interviews had different formats and # of rounds. Let me lay them out in a quick list.
@@ -79,9 +85,42 @@ All interviews had different formats and # of rounds. Let me lay them out in a q
   + Korean Air General Hire
     - Interview, Offline, 3 Rounds, Practical + Presentation + In-depth format
   + Orion Snacks Global Procurement Role
-    - One day interview, Online, 2 Rounds, Practical + In-depth format
+    - One day interview + Internship, Online, 2 Rounds, Practical + In-depth format
 
-Most interview offers don't come with ideal pacing. My first interview with Orion Snacks was scheduled for Oct.31. For Hyundai/Samsung/Korean Air, it was Nov. 17,18,21 respectively. 
+Most interview offers don't come with ideal pacing. My first interview with Orion Snacks was scheduled for Oct.31. For Hyundai/Samsung/Korean Air(2nd Round) it was Nov. 17, 18, 21 respectively. Basically I had my one and only interview testbed with Orion, and had to go through 3 interviews with very little or no intervals. Let's go into some details of how the interviews went.
+
+
+#### Orion
+
+Using debate format, 6 applicants were divided into two and were asked to prepare pro & con arguments for a given topic. The topic was 'Are AI created artworks truly art?'. One applicant was asked to take the additional role of moderator, which I took. The overall debate was subpar to say the least. Given the limited amount of time, it was all about taking more speaking time rather than the actual quality of arguments. Looking back, I think the debate in itself was quite unimportant and more about showing who you are in a discussion environment... but i still have doubts about how this format is suitable for that kind of assessment.
+
+After the debate, the interviewers asked us random questions like 'Sales pitch your elementary school'. I guess it was to determine the quickness of one's thought processes. But as you can see, the quality of the questions were a bit... lame.
+
+The in-depth interview with the executive staff members was conducted in a much more serious atmosphere. I received multiple challenges concerning loyalty. 'Why not stay in the consulting business?' was the most frequently asked question across the multiple rounds of interviews. I initially denied my interest in the consulting industry, which in hindsight was a mistake. A more truthful approach would have shown more genuineness.
+
+As a result I failed to get an internship offer, which was not a surprise. The lack of presence in the debate, wrong approach to the loyalty questions, and the educated expectation that SNU students wouldn't stay long at the firm all added upto this result.
+
+Key Takeaways were as follows:
+
+  + Get ready for loyalty questions, and answer them with genuineness.
+    - Denying sth obvious ends up making you look dishonest.
+  + Refrain from answering 'why this position' with 'It's the most important role'.
+    - To the firm, EVERY ROLE is important. These answers make you look arrogant.
+  + It's quite hard to convince some firms with historical data that indicate ppl like you tend to leave quick.
+    - Do your best, but don't sulk even if you end up rejected.
+
+
+#### Hyundai Capital
+
+
+
+#### Samsung FMI
+
+
+
+#### Korean Air
+
+
 
 ## Final Offer Decisions
 
