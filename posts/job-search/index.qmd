@@ -7,21 +7,21 @@ categories:
   - Anecdotes
 ---
 
-Getting a job in 2025 was a major pain in the ass; the job market and myself both at fault. My specific career preference for global corp dev narrowed down my applicable job openings, and the declining hire volumes reduced my chances of landing an interview. To cut it short, I ended up with 15 resume applications, 4 interview requests, and 2 final offers.
+Getting a job in 2025 was a major scramble; the job market and myself both at fault. My specific career preference for global corp dev narrowed down my applicable job openings, and the declining hire volumes reduced my chances of landing an interview. To cut it short, I ended up with 15 resume applications, 4 interview requests, and 2 final offers.
 
 ## The Resume Grind
 
 *For my previous experience details, check out my CV in the main page*
 
-To sum up my previous intern experience, I worked as a overseas sales intern for a small medical instrument manufacturing company, an investment intern for a Corporate Venture Capital, and a RA for a consulting firm. Melting them down to keywords would be: `Global Business`, `SI/FI Investments`, and `Business Strategy`. Having intern experience in overseas sales, venture capital and consulting is good and all, but its not a great fit for mass-applying in the South-Korean job market. Most job openings for Business Management undergrads accumulate to marketing and sales, and a rare pinch of misc job posts.
+To sum up my previous intern experience, I worked as a overseas sales intern for a small medical instrument manufacturing firm, an investment intern for a Corporate Venture Capital, and a RA for a consulting firm. Melting them down to keywords would be: `Global Business`, `SI/FI Investments`, and `Business Strategy`. Having intern experience in overseas sales, venture capital and consulting is good and all, but it's not a great fit for mass-applying in the South-Korean job market. Most job openings for Business Management undergrads accumulate to marketing and sales, and a rare pinch of misc job posts.
 
-Even though marketing has the greatest amount of hire for most companies, they also require specific skill sets and portfolios to back them up. Having none of these meant that I had no competitiveness in this sector. That basically meant *sayonara* to the **50%** of job openings for me. For sales, although I have a bit of experience, it was pretty clear to me that the culture fit between me and the sales department was a mile long. Well, there goes an another **40%**. TLDR; I was going to have to fight for my chances in the **10%** of all job openings. A pretty grim start.
+Even though marketing has the greatest amount of hire for most companies, they also require specific skill sets and portfolios to back them up. Having none of these meant that I had no competitiveness in this sector. That basically meant *sayonara* to the **50%** of job openings for me. For sales, although I have a bit of experience, it was pretty clear to me that the culture fit between me and the sales department was a mile long. Well, there goes another **40%**. TLDR; I was going to have to fight for my chances in the **10%** of all job openings. A pretty grim start.
 
-Working with the remaining 10%, I had to find job posts that fit my keywords. Of the three, the most generally applicable keyword was `Global Business` and `Business Strategy`. Some examples were: 
+Working with the remaining 10%, I had to find job posts that fit my keywords. Some examples were: 
 
   + Samsung Fire & Marine Insurance Global Business Development Role
   + Hyundai Capital Global Business Management Role
-  + Korean Air General Hire
+  + Korean Air 'General' Hire
     - *hire first, distribute later kind of hire*
   + Orion Snacks Global Procurement Role
   + Hyundai Card Product Development Role
@@ -34,7 +34,7 @@ This total of 15 applications still included some roles like Global Marketing an
   + Korean Air General Hire
   + Orion Snacks Global Procurement Role
 
-A 27% win rate doesn't really cheer you up. Especially when you have *superb*  colleagues making 40~50% out of theirs. Now, time to analyze my success and failures. 
+A 27% win rate doesn't really cheer you up. Especially when you have some colleagues making 40~50% out of theirs. Now, time to analyze my success and failures. 
 
 #### Success
 
@@ -58,19 +58,19 @@ A 27% win rate doesn't really cheer you up. Especially when you have *superb*  c
   + Lotte Wellfoods Global Strategy
     - `Global Business`, `Business Strategy`, *Aversion for SNU Undergrads*
 
-In the end, it boils down to two major differences; **JD Fit** and **Culture Fit**. JD Fit being the amount of job experience keywords that befit the position's JD, and Culture Fit regarding the firm's overall qualitative tendency that could favor/dislike you. I generally got interview offers from positions with two or more befitting keywords, or firms that have strong tendencies to favor certain aspects of my qualifications. On the other hand, I had no luck from positions with weak ties with my keywords, or firms that have strong tendencies to dislike certain aspects of my qualifications. More on this matter at the **Reflections / Thoughts**.
+In the end, it boils down to two major differences; **JD Fit** and **Culture Fit**. JD Fit being the amount of job experience keywords that befit the position's JD, and Culture Fit regarding the firm's overall qualitative tendency that could favor/dislike an applicant. I generally got interview offers from positions with two or more befitting keywords, or firms that have strong tendencies to favor certain aspects of my qualifications. On the other hand, I had no luck from positions with weak ties with my keywords, or firms that have strong tendencies to dislike certain aspects of my qualifications. While matching the firm's JD Fit mostly depends on your ability to analyze your past experience and melt them into your application, culture fit tends to be more uncontrollable. More on this matter at the **Reflections / Thoughts**.
 
 Before moving on, let me show you one of the *strangest*  resume requirements of a small~middle sized firm. Just for shits and giggles.
 
 ![How much do you smoke...?](HT_Smoke.png)
 
-Like... WTF? Just one of many strange requirements out there, mostly for old - middle sized firms. When rummaging through the job posts in the korean job market, there are a surprising lot of resume requirements like these.
+Like... Why? Just one of many strange requirements out there, mostly for old - middle sized firms. When rummaging through the job posts in the Korean job market, there are a surprising lot of resume requirements like these. Funny!
 
 ## Aptitude Tests
 
-Like most other companies worldwide, South Korean firms also require applicants to take their own aptitude tests. Some use their own, while others use 3rd party programs. Samsung uses GSAT, while most others use a test designed by Jobda. Jobda's gamification tests and interviews are generally easy to handle. My personal take is that Jobda tests are just a very light screening tool, or just a convenient excuse for taking more time to review the applicant's resumes.
+Like most other companies worldwide, South Korean firms also require applicants to take aptitude tests. Some use their own, while others use 3rd party programs. Samsung uses GSAT, while some others use a test designed by Jobda. Jobda's gamification tests and interviews are generally easy to handle. My personal take is that Jobda tests are just a very light screening tool, or just a convenient excuse for taking more time to review the applicant's resumes. This is just my personal thought, so take it with a grain of salt.
 
-GSAT was a *totally*  different story. Since this test was here for a long time, there were already multiple books covering the types of questions, and time saving gimmicks. I had to 'git gud' in a short amount of time so that I could make it into the 3~5 multiple. It was a nightmare. Endless repetition of mock tests, pushing myself so that I could get more answers in a limited amount of time, sometimes it felt like way too much for me mentally. All I can say is... Thank God It's Over.
+GSAT was a *totally*  different story. Since this test was here for a long time, there were already multiple books covering the types of questions, and time saving gimmicks. I had to 'git gud' in a short amount of time so that I could make it into the 3~5 multiples. It was a nightmare. Endless repetition of mock tests, pushing myself so that I could get more answers in a limited amount of time, sometimes it felt like way too much for me mentally. All I can say is... Thank God It's Over.
 
 ## Interviews
 
@@ -85,20 +85,20 @@ All interviews had different formats and number of rounds. Let me lay them out i
   + Korean Air General Hire
     - Interview, Offline, 3 Rounds, Practical + Presentation + In-depth format
   + Orion Snacks Global Procurement Role
-    - One day interview + Internship, Online, 2 Rounds, Debate + In-depth format
+    - One day interview + Internship, Offline, 2 Rounds, Debate + In-depth format
 
 Most interview offers didn't come with ideal pacing. My first interview with Orion Snacks was scheduled for Oct.31. For Hyundai/Samsung/Korean Air(2nd Round) it was Nov. 17, 18, 21 respectively. Basically I had my one and only interview testbed with Orion, and had to go through 3 interviews with very little or no intervals. Let's go into some details of how some of the interviews went.
 
 
 #### Orion
 
-Using debate format, 6 applicants were divided into two and were asked to prepare pro & con arguments for a given topic. The topic was 'Are AI created artworks truly art?'. One applicant was asked to take the additional role of moderator, which I took. The overall debate was subpar to say the least. Given the limited amount of time, it was all about securing more speaking time rather than the actual quality of arguments. Looking back, I think the debate in itself was quite unimportant and more about showing who you are in a discussion environment... but i still have doubts about how this format is suitable for that kind of assessment.
+Using debate format, 6 applicants were divided into two and were asked to prepare pro & con arguments for a given topic. One applicant was asked to take the additional role of moderator, which I took. The overall debate was subpar, to say the least. Given the limited amount of time, it was all about securing more speaking time rather than the actual quality of arguments. Looking back, I think the debate in itself was quite unimportant and more about showing what you are like in a discussion environment... but I still have doubts about how this format is suitable for that kind of assessment.
 
 After the debate, the interviewers asked us random questions like 'Sales pitch your elementary school'. I guess it was to determine the quickness of one's thought processes. But as you can see, the quality of the questions were a bit... ***lame***.
 
-The in-depth interview with the executive staff members was conducted in a much more serious atmosphere. I received multiple challenges concerning loyalty. 'Why not stay in the consulting business?' was the most frequently asked question across the multiple rounds of interviews. I initially denied my interest in the consulting industry, which in hindsight was a mistake. A more truthful approach would have shown more genuineness. Also, when I was asked 'Why did you sign up for this specific role?' I answered with sth in the line of 'Because I believe it is the most important role in terms of ....'. A **MAJOR** fuck up. I instantly realized the mistake when the executive replied 'Just to be clear... every role is important'. A very naive answer from my part.
+The in-depth interview with the executive staff members was conducted in a much more serious atmosphere. I received multiple challenges concerning loyalty. 'Why not stay in the consulting business?' was the most frequently asked question across the multiple rounds of interviews. I initially denied my interest in the consulting industry, which in hindsight was a mistake. A more truthful approach would have shown more genuineness. Also, when I was asked 'Why did you sign up for this specific role?' I answered with sth in the line of 'Because I believe it is the most important role in terms of ....'. A **MAJOR** fuck up. I instantly realized the mistake when the executive replied 'Just to be clear... every role is important'. A very *naive*  answer from my part.
 
-As a result I failed to get an internship offer, which was not a surprise. The lack of presence in the debate, wrong approach to the questions, and the educated expectation that SNU students wouldn't stay long at the firm all added upto this result.
+As a result I failed to get an internship offer, which was not a surprise. The lack of presence in the debate, wrong approach to the questions, and the educated expectation that I wouldn't stay long at the firm all added upto this result.
 
 Key Takeaways were as follows:
 
@@ -112,7 +112,7 @@ Key Takeaways were as follows:
 
 #### Hyundai Capital
 
-Hyundai Capital(HC) was the only firm using online-interview format. As a person who strongly prefers face-to-face interviews, this wasn't great. Having Samsung FMI interview the next day didn't help either. I spent most of my time studying up on HC's recent business issues and finantial statements.
+Hyundai Capital(HC) was the only firm using online-interview format. As a person who strongly prefers face-to-face interviews, this wasn't great. Having Samsung FMI interview the next day morning didn't help either. I spent most of my time studying up on HC's recent business issues and financial statements.
 
 During the interview, I was joined with 5~6 ppl. One of them was a young junior(I remember this because of what soon happens later). The general atmosphere of the interview was... *monotone*. It was less of a conversation and more of a interrogation. To give you a brief idea...
 
@@ -123,18 +123,18 @@ During the interview, I was joined with 5~6 ppl. One of them was a young junior(
   + Okay. Q3. What did you learn about in our finanacial statements?
     - To my understanding... blahblahblah...
 
-Basically, there were ZERO followup questions. This meant I couldn't appeal about my experience and what i've studied about the firm in detail. This probably meant that the interviewers weren't convinced with my resume, and had less interest in me.
+Basically, there were **ZERO** followup questions. This meant I couldn't appeal about my experience and what I've studied about the firm in detail. This probably meant that the interviewers weren't convinced with my resume, and had less interest in me. A failure for my part in designing my resume.
 
 But then came the worst part. The junior interviewer asked me, "Could you tell me your opinion on the future of US stock market, and back it up with specific data?". 
 
 ![WTF...?](wtf-man.gif)
 
-Why would you randomly ask me about the US stock market? And back it up with data?? For a second I was genuinely confused and asked him what the question was lol. After a long *bullshitting*  session, the senior next to him asked me "Great, can you repeat what you said in English?". Well, that was the finishing blow for me.
+Why would you randomly ask me about the US stock market? And to back it up with data?? For a second I was genuinely confused and asked him what the question was. After a long *improvising*  session, the senior next to him asked me "Great, can you repeat what you said in English?". Well, that was the finishing blow for me.
 
 Key Takeaways were as follows:
 
   + If the interview is getting stale, you have to **make the interviewer curious**.
-    - Just repeating Q, A's won't get you the position. Next time, prepare something special to make the interviewer genuinely curious
+    - Just repeating Q&A's won't get you the position. Next time, prepare something special to make the interviewer genuinely curious about you.
   + Don't include things in your resume that you can't 100% explain.
     - The junior probably asked that random question because of my brief experience in quant investments. Refrain from using sources that may bring up random questions that you can't answer well.
 
@@ -142,7 +142,7 @@ Key Takeaways were as follows:
 
 Samsung FMI's global business development JD was almost a perfect fit with my prior experience. Since their role was `#1 Organic Growth` (managing business strategies for foreign subsidiaries) `#2 Inorganic Growth` (Source and evaluate investment deals), they required experience in `Global Business`, `SI/FI Investments`, `Business Strategy`. As a result, I had a lot to appeal in my resume and cover letters. Consequently, I also got a lot of follow-up questions about my experiences and my interest about the firm, opening up the window to showcase what I have prepared to the fullest. Also, I answered all loyalty related questions with genuineness this time which definitely had a better response from the executives. **Admitting** that I had once pursued a career in consulting, and then backing it up with reasons why I pivoted to this firm seemed to be the answer.
 
-For the presentation part, it was definitely challenging material. However, they were also answerable with enough prep about the department's recent business. Reaching out to a employee in that firm about recent issues and problems that are deemed important within the firm definitely helped in picking out the right problems to talk about. There were a lot of challenges and follow-up questions, but most of them were not too hard to answer. When asked about sth way too detailed for me to answer, admitting that I do not have enough knowledge to answer then proceeding to give the best answer you can give seems to be a good approach.
+The presentation was challenging, but entirely manageable with targeted preparation. By consulting a current employee, I was able to pinpoint the department’s actual pain points and focus on the problems that truly mattered. When faced with questions beyond my technical reach, I chose **transparency over bluffing**—admitting my limitations while offering the best logical analysis I could provide.
 
 Overall, the interview felt good because the interview felt like a real conversation. It showed that the interviewers were genuinely interested about me, and I answered them with no errors.
 
@@ -151,13 +151,13 @@ Key Takeaways were as follows:
   + The ability to **show your fit in the resume** determines how the interview will go.
     - comparing to HC's case, if you showcase well that you are fit with the position from the resume, the interviewers will provide you with opportunities to show off your skills.
   + **Be honest**, then back them up with logical reasoning. 
-    - Be honest about things that are obvious. Then add logical reasoning that explains the 'why'
-  + Prep as hard as you can, then **search for employee's advice**.
+    - Be honest about things that are obvious in the interviewer's perspective. Then add logical reasoning that explains the 'why'
+  + Prep as hard as you can, then **consult a current employee for their perspective**.
     - You need to figure out what the actual employees think are the most pressing issues in the firm. Asking an actual employee is the best option. Reach out to friends, former colleagues and seniors for ties.
 
 #### Korean Air
 
-Since this blog is getting way longer than expected, i'll cut this one short. The interview process seemed like a gimmick, since no questions seemed insightful. The general feeling was that *they just wanted undergrads from prestige universities*.
+Since this post is getting way longer than expected, I'll cut this one short. The interview process seemed like a gimmick, since no questions seemed particularly insightful. The general feeling was that *they just wanted undergrads from prestige universities*. I'm saying this because most hires at the firm just *happen* to be so. Like always, this is just my personal thought so take it with a grain of salt.
 
 ## Final Offer Decisions
 
@@ -174,13 +174,14 @@ To finish this off, let me summarize some thoughts I had during/after the job se
 
 #### 1. Connecting the Dots
 
-It feels that companys are focusing more on hiring a limited amount of juniors with experience that befits the JD very closely. This is well reflected in the resume-screening rate, and the interview atmosphere. Therefore, it is extremely crucial to analyze your past work experience into keywords, and find matching JDs that is the best fit with them. 
+It feels that companies are focusing more on hiring a limited amount of juniors with experience that is tailored to the JD. This is well reflected in the resume-screening rate, and the interview atmosphere. Therefore, it is extremely crucial to analyze your past work experience into keywords, and find matching JDs that is the best fit with them. 
 
-Idealy, planning out internships and academic circles in a linear manner would be great if you have a clear idea of what you want to do. However, even if you only have a vague idea of what you want to do, it is still perfectly fine. 90% of us are in that category anyways. In my case, I started off from a academic circle that specialized in strategic consulting for entertainment firms. From there, I had the luck of being refered to a strategic planning department of a game company that essentially served as a cvc. The relationships I made on the way opened up new opportunities, and got me a RA position at Bain. During the entire process, I had no idea how having experience in Global Sales, CVC, Consulting could be linked together. But when looking back and putting the puzzles together, I could see how my experiences could be quite favorable for a career in global business development. Luckily, a position at Samsung FMI happened to have that exact requirements, and I just happened to be a very fit applicant.
+Idealy, planning out internships and academic circles in a linear manner would be great if you have a clear idea of what you want to do. However, even if you only have a vague idea of what you want to do, it is still perfectly fine. 90% of us are in that category anyways. In my case, I started off from a academic circle that specialized in strategic consulting for entertainment firms. From there, I had the luck of being refered to a strategic planning department of a game company that essentially served as a CVC. The relationships I made on the way opened up new opportunities, and got me a RA position at Bain. During the entire process, I had no idea how having experience in Global Sales, CVC, Consulting could be linked together. But when looking back and putting the puzzles together, I could see how my experiences could be quite favorable for a career in global business development. Luckily, a position at Samsung FMI happened to have that exact requirement, and I just happened to be a very fit applicant.
 
 #### 2. Some things just aren't up to us
 
-Unless preparing for a specific expertise, getting a job offer that befits your experience depends a lot on luck. From finding a job post that fits you to who comes into the final interview round is sheer luck. There can be so many misc reasons for you to not make the cut. Maybe the interviewer was determined to hire a male candidate for the position, or maybe the interviewer was extra cranky from a fight with his supervisor. There will be a **LOT** of rejections. Although they can be heart-breaking, manage your self-doubts & pressure. Reach out to friends and family for conversation. Convince yourself that it isn't your fault(because it really isn't for the most part!). Most importantly, try to [be kind to yourself](https://www.youtube.com/watch?v=OLDhaqosPtA) along the process. The link is a video I frequently watched during my job application process to boost my morale.
+Although it can't be denied that preparing strategically is important to get an opportunity at all, getting a job offer that befits your experience ultimately depends a lot on luck. From finding a job post that fits you, to who comes into the final interview round is sheer luck. There can be so many hidden variables behind a rejection. Maybe the team had an unspoken preference for a different background, or perhaps there were internal organizational shifts that were completely out of your hands.
+Long story short, there will be a **LOT** of rejections, but **don't let them get to you**. Trying to control the uncontrollable is just a destined loss. Instead, reach out to friends and family for conversation. Convince yourself that it isn't your fault(because it really isn't for the most part!). Most importantly, try to [be kind to yourself](https://www.youtube.com/watch?v=OLDhaqosPtA) along the entire process. I *know* it isn't easy as it sounds, but we have to try.
 
 #### 3. What's up ahead?
 
