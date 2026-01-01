@@ -110,5 +110,47 @@
     "title": "Job Search in 2025",
     "section": "Aptitude Tests",
     "text": "Aptitude Tests\nLike most other companies worldwide, South Korean firms also require applicants to take aptitude tests. Some use their own, while others use 3rd party programs. Samsung uses GSAT, while some others use a test designed by Jobda. Jobda’s gamification tests and interviews are generally easy to handle. My personal take is that Jobda tests are just a very light screening tool, or just a convenient excuse for taking more time to review the applicant’s resumes. This is just my personal thought, so take it with a grain of salt.\nGSAT was a totally different story. Since this test was here for a long time, there were already multiple books covering the types of questions, and time saving gimmicks. I had to ‘git gud’ in a short amount of time so that I could make it into the 3~5 multiples. It was a nightmare. Endless repetition of mock tests, pushing myself so that I could get more answers in a limited amount of time, sometimes it felt like way too much for me mentally. All I can say is… Thank God It’s Over."
+  },
+  {
+    "objectID": "posts/Competitiveness Defined With AGI/index.html",
+    "href": "posts/Competitiveness Defined With AGI/index.html",
+    "title": "Labor Competitiveness Re-defined With AGI",
+    "section": "",
+    "text": "“We will not be missed”\nThat is the title and the final sentence of Pascual Restrepo’s 2025 article, We Won’t be Missed: Work and Growth in the AGI World. Published in an NBER volume, the paper addresses a fundamental question: “Will AI make human jobs obsolete?” While the premise is radical, I believe the framework itself provides an insightful way to restructure our understanding of competitiveness.\nIn this post, I will briefly summarize the article and then translate the key takeaways from the perspective of a junior."
+  },
+  {
+    "objectID": "posts/Competitiveness Defined With AGI/index.html#the-core-framework-bottlenecks-vs.-supplementary-work",
+    "href": "posts/Competitiveness Defined With AGI/index.html#the-core-framework-bottlenecks-vs.-supplementary-work",
+    "title": "Labor Competitiveness Re-defined With AGI",
+    "section": "The Core Framework: Bottlenecks vs. Supplementary Work",
+    "text": "The Core Framework: Bottlenecks vs. Supplementary Work\nRestrepo’s argument hinges on a critical distinction between two types of labor:\n\nBottleneck Work: Tasks essential for economic growth. Output cannot expand indefinitely unless these inputs also expand. Examples include energy production, scientific advancement, and national security.\nSupplementary Work: Tasks non-essential for growth. Output can expand even if these inputs remain fixed. Examples include arts, hospitality, and empathic social work.\n\nRestrepo’s primary result is stark: in the long run, all bottleneck work will eventually be automated. AGI makes it feasible to perform all economically valuable work using compute. His claim that quantity has a quality all its own means that all work, including physical & social can be replicated by AGI; the only reason why they are left to humans is because 1. that human skill can save compute 2. it is supplementary.\nThis in turn shows how the valuation of labor fundamentally changes. Before AGI, human skill was the main driver of output, thus there was no intrinsic wage cap for the valuable skills needed for bottleneck tasks. Now with AGI as the driver of growth, wages are redefined as opportunity costs to the computing cost of replicating human skill. This idea is continued in the next segement as CEU."
+  },
+  {
+    "objectID": "posts/Competitiveness Defined With AGI/index.html#the-structural-shift-from-fl-k-to-fq-l",
+    "href": "posts/Competitiveness Defined With AGI/index.html#the-structural-shift-from-fl-k-to-fq-l",
+    "title": "Labor Competitiveness Re-defined With AGI",
+    "section": "The Structural Shift: From \\(F(L, K)\\) to \\(F(Q + L)\\)",
+    "text": "The Structural Shift: From \\(F(L, K)\\) to \\(F(Q + L)\\)\nIf I could pick the most significant proposition, it would be the change in the production function. According to the article, we are moving from a world where labor and capital are multiplicative partners to a world where they are linear.\nRestrepo introduces Compute-Equivalent Units (CEU): the computational resources required to replicate a specific human skill in its most complex task. In this new regime:\n\nProduction becomes additive: Aggregate output converges to \\(Y_{t}=A(Q_{t}+\\sum_{s\\in\\mathcal{A}}CEU(s)H(s))+N(\\{H(s)\\}_{s\\in N})\\).\nWages are anchored: Real wages for skills in the automated group (\\(s \\in \\mathcal{A}\\)) converge to the compute cost of replicating that skill: \\(W(s) = A \\cdot CEU(s)\\).\nLabor share collapses: As total compute (\\(Q\\)) expands over time, the share of labor in GDP converges toward zero. Growth is driven by the expansion of compute, not human effort."
+  },
+  {
+    "objectID": "posts/Competitiveness Defined With AGI/index.html#contemplation-the-junior-planners-path",
+    "href": "posts/Competitiveness Defined With AGI/index.html#contemplation-the-junior-planners-path",
+    "title": "Labor Competitiveness Re-defined With AGI",
+    "section": "Contemplation: The Junior Planner’s Path",
+    "text": "Contemplation: The Junior Planner’s Path\nAs a junior in Global Business Planning and Operations, this framework transforms how I view my own career. Having navigated the “major scramble” of the 2025 job market, I’ve realized that pure technical execution is no longer a sustainable moat.\nThen, how should we redefine our competitiveness in the world of AI? With Restrepo’s logic structure, we need to be in the zone of ‘bottleneck, yet costly to compute’. What could be possible characteristics of being competitive that means min(\\(\\alpha_{t}(\\omega)\\))?\n\nA. Becoming an Arbitrator of Intent\nAGI is the “recipe” for transforming compute into work. While AGI provides the How, the human planner must define the Why. My value lies in problem framing—identifying which global bottlenecks are most critical for the firm to solve next.\n\n\nB. Strategic M&A and “Compute Efficiency”\nIn M&A and Post-Merger Integration (PMI), we traditionally value companies based on human talent. However, the AGI world suggests a shift toward Compute Efficiency. If I am evaluating a target firm, I must ask: “How much of their growth is tied to human bottlenecks that AGI can solve, and how much is tied to Supplementary Work that creates a unique human brand?”\n\n\nC. Navigating the “Jagged Transition”\nRestrepo describes an “Algorithm-binding transition” as jagged and risky. It involves sudden wage declines as algorithms succeed and are adopted immediately, disrupting the labor market. As a junior, I must act as an early warning system for my organization, identifying which business functions are on the verge of a “jagged” shift so we can pivot before the disruption hits."
+  },
+  {
+    "objectID": "posts/Competitiveness Defined With AGI/index.html#closing-finding-purpose-when-we-arent-missed",
+    "href": "posts/Competitiveness Defined With AGI/index.html#closing-finding-purpose-when-we-arent-missed",
+    "title": "Labor Competitiveness Re-defined With AGI",
+    "section": "Closing: Finding Purpose When We Aren’t “Missed”",
+    "text": "Closing: Finding Purpose When We Aren’t “Missed”\nThe paper concludes with a haunting observation: Historically, work gave us a sense that our efforts improved society—that we would be “missed” if we stopped. In an AGI world, that connection is severed because human skill is no longer needed to improve living standards in an appreciable way.\nHowever, being “not missed” by a mathematical production function does not mean being “not missed” by our firms or communities. As a junior professional, I see this as an invitation to move away from being a “cog in the machine” and toward being a steward of purpose. We may not be essential for the growth of GDP, but we are essential for defining what that growth is for."
+  },
+  {
+    "objectID": "posts/Competitiveness Defined With AGI/index.html#closing-finding-purpose-when-we-are-no-longer-missed",
+    "href": "posts/Competitiveness Defined With AGI/index.html#closing-finding-purpose-when-we-are-no-longer-missed",
+    "title": "Labor Competitiveness Re-defined With AGI",
+    "section": "Closing: Finding Purpose When We Are no longer “Missed”",
+    "text": "Closing: Finding Purpose When We Are no longer “Missed”\nThe paper concludes with a haunting observation: Historically, work gave us a sense that our efforts improved society—that we would be “missed” if we stopped. In an AGI world, that connection is severed because human skill is no longer needed to improve living standards in an appreciable way.\nHowever, restrepo’s argument has its own oversights mostly due to its radical premises and assumptions. As a junior professional, I see this as an invitation to move away from being a “cog in the machine” and toward being a steward of purpose. We may not be essential for the growth of GDP, but we can still be essential in the niche of the crossing of problem framing and qualitative decision making. Well, at least in our era."
   }
 ]

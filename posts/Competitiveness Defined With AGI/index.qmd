@@ -1,0 +1,65 @@
+---
+title: "Labor Competitiveness Re-defined With AGI"
+description: "An interesting framework to define competitiveness"
+date: "2026-01-01"
+toc: false
+categories:
+  - reviews
+---
+
+
+::: {.text-center}
+***"We will not be missed"***
+:::
+
+That is the title and the final sentence of Pascual Restrepo's 2025 article, [*We Won't be Missed: Work and Growth in the AGI World*](https://www.nber.org/books-and-chapters/economics-transformative-ai/we-wont-be-missed-work-and-growth-agi-world). Published in an NBER volume, the paper addresses a fundamental question: "Will AI make human jobs obsolete?" While the premise is radical, I believe the framework itself provides an insightful way to restructure our understanding of competitiveness.
+
+In this post, I will briefly summarize the article and then translate the key takeaways from the perspective of a junior.
+
+## The Core Framework: Bottlenecks vs. Supplementary Work
+
+Restrepo’s argument hinges on a critical distinction between two types of labor:
+
+* **Bottleneck Work:** Tasks essential for economic growth. Output cannot expand indefinitely unless these inputs also expand. Examples include energy production, scientific advancement, and national security.
+* **Supplementary Work:** Tasks non-essential for growth. Output can expand even if these inputs remain fixed. Examples include arts, hospitality, and empathic social work.
+
+Restrepo’s primary result is stark: in the long run, **all bottleneck work will eventually be automated**. AGI makes it feasible to perform all economically valuable work using compute. His claim that *quantity has a quality all its own* means that all work, including physical & social can be replicated by AGI; the only reason why they are left to humans is because 1. that human skill can save compute 2. it is supplementary.
+
+This in turn shows how the valuation of labor fundamentally changes. Before AGI, human skill was the main driver of output, thus there was no intrinsic wage cap for the valuable skills needed for bottleneck tasks. Now with AGI as the driver of growth, wages are redefined as opportunity costs to the computing cost of replicating human skill. This idea is continued in the next segement as **CEU**.
+
+## The Structural Shift: From $F(L, K)$ to $F(Q + L)$
+
+If I could pick the most significant proposition, it would be the change in the production function. According to the article, we are moving from a world where labor and capital are multiplicative partners to a world where they are **linear**. 
+
+Restrepo introduces **Compute-Equivalent Units (CEU)**: the computational resources required to replicate a specific human skill in its most complex task. In this new regime:
+
+* **Production becomes additive:** Aggregate output converges to $Y_{t}=A(Q_{t}+\sum_{s\in\mathcal{A}}CEU(s)H(s))+N(\{H(s)\}_{s\in N})$.
+* **Wages are anchored:** Real wages for skills in the automated group ($s \in \mathcal{A}$) converge to the compute cost of replicating that skill: $W(s) = A \cdot CEU(s)$.
+* **Labor share collapses:** As total compute ($Q$) expands over time, the share of labor in GDP converges toward zero. Growth is driven by the expansion of compute, not human effort.
+
+---
+
+## Contemplation: The Junior Planner’s Path
+
+As a junior in **Global Business Planning and Operations**, this framework transforms how I view my own career. Having navigated the "major scramble" of the 2025 job market, I’ve realized that pure technical execution is no longer a sustainable moat. 
+
+Then, how should we redefine our competitiveness in the world of AI? With Restrepo's logic structure, we need to be in the zone of 'bottleneck, yet costly to compute'. What could be possible aspects of bottleneck human labor which satisfies max($\alpha_{t}(\omega)$)?
+
+### A. Becoming an Arbitrator of Intent
+AGI is the "recipe" for transforming compute into work. While AGI provides the *How*, the human planner must define the *Why*. My growth path should lie in **problem framing**—identifying which global bottlenecks are most critical for the firm to solve next.
+
+### B. Strategic M&A and "Qualitative Evaluation"
+In M&A and Post-Merger Integration (PMI), we undergo due diligence across both quantitative and qualitative dimensions of a firm. While the former—financial modeling, risk assessment, and market sizing—may be easily automated, the latter requires nuanced decision-making in "grey areas" that are difficult to quantify into solid data. 
+
+For instance, when valuing startups, a significant portion of the valuation is an assessment of the "Human Moat": the founders' skill stacks, their ability to pivot under pressure, and their overall attitude in cooperation. These qualitative traits may have the greatest CEU, yet still be an important bottleneck task in the context of inorganic growth. As a junior planner, my competitiveness will hinge on my ability to evaluate these non-linear, human elements that a compute-driven model might overlook as "statistically insignificant" but which actually drive long-term output.
+
+### C. Navigating the "Jagged Transition"
+Restrepo describes an "Algorithm-binding transition" as jagged and risky. It involves sudden wage declines as algorithms succeed and are adopted immediately, disrupting the labor market. As a junior, I must act as an **early warning system** for my organization, identifying which business functions are on the verge of a "jagged" shift so we can pivot before the disruption hits.
+
+---
+
+## Closing: Finding Purpose When We Are no longer "Missed"
+
+The paper concludes with a haunting observation: Historically, work gave us a sense that our efforts improved society—that we would be "missed" if we stopped. In an AGI world, that connection is severed because human skill is no longer needed to improve living standards in an appreciable way.
+
+However, restrepo's argument has its own oversights mostly due to its radical premises and assumptions. As a junior professional, I see this as an invitation to move away from being a "cog in the machine" and toward being a **steward of purpose**. We may not be essential for the growth of GDP, but we can still be essential in the niche of the crossing of problem framing and qualitative decision making. Well, at least in our era.
