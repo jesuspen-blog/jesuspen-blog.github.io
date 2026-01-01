@@ -1,6 +1,6 @@
 ---
 title: "Labor Competitiveness Re-defined With AGI"
-description: "An interesting framework to define competitiveness"
+description: "An interesting framework to define competitiveness in the upcoming AGI era"
 date: "2026-01-01"
 toc: false
 categories:
@@ -62,4 +62,4 @@ Restrepo describes an "Algorithm-binding transition" as jagged and risky. It inv
 
 The paper concludes with a haunting observation: Historically, work gave us a sense that our efforts improved society—that we would be "missed" if we stopped. In an AGI world, that connection is severed because human skill is no longer needed to improve living standards in an appreciable way.
 
-However, restrepo's argument has its own oversights mostly due to its radical premises and assumptions. As a junior professional, I see this as an invitation to move away from being a "cog in the machine" and toward being a **steward of purpose**. We may not be essential for the growth of GDP, but we can still be essential in the niche of the crossing of problem framing and qualitative decision making. Well, at least in our era.
+However, restrepo's argument has its own oversights mostly due to its radical premises and assumptions. As a junior professional, I see this as an invitation to move away from being a "cog in the machine" and toward being a **steward of purpose**. We may not be essential for the growth of GDP, but we can still be essential in the niche of the crossing of problem framing and qualitative decision making. Well, at least in our lifespans.
