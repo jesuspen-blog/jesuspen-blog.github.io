@@ -1,7 +1,7 @@
 ---
 title: "Hello, Quarto"
 description: "Starting my first blog in quarto"
-date: "2025-12-21"
+date: "2025-12-20"
 toc: false
 categories:
   - announcement
