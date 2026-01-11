@@ -62,7 +62,9 @@ In the end, it boils down to two major differences; **JD Fit** and **Culture Fit
 
 Before moving on, let me show you one of the *strangest*  resume requirements of a small~middle sized firm. Just for shits and giggles.
 
+::: {style="text-align: center;"}
 ![How much do you smoke...?](HT_Smoke.png)
+:::
 
 Like... Why? Just one of many strange requirements out there, mostly for old - middle sized firms. When rummaging through the job posts in the Korean job market, there are a surprising lot of resume requirements like these. Funny!
 
@@ -127,7 +129,9 @@ Basically, there were **ZERO** followup questions. This meant I couldn't appeal 
 
 But then came the worst part. The junior interviewer asked me, "Could you tell me your opinion on the future of US stock market, and back it up with specific data?". 
 
+::: {style="text-align: center;"}
 ![WTF...?](wtf-man.gif)
+:::
 
 Why would you randomly ask me about the US stock market? And to back it up with data?? For a second I was genuinely confused and asked him what the question was. After a long *improvising*  session, the senior next to him asked me "Great, can you repeat what you said in English?". Well, that was the finishing blow for me.
 
