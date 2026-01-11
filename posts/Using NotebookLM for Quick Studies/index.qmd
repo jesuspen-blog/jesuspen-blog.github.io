@@ -4,7 +4,7 @@ description: "Using NotebookLM to make an introductory guideline for strategic M
 date: "2026-01-11"
 toc: false
 categories:
-  - study
+  - Study
 ---
 
 In this post, I will document my first use case of NotebookLM in conducting a quick study for strategic M&A in the insurance sector. My notebook can be found [here](https://notebooklm.google.com/notebook/b1d6387f-b9d3-4e80-a96f-b530ecfd1c34).

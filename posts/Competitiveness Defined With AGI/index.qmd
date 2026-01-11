@@ -4,7 +4,7 @@ description: "An interesting framework to define competitiveness in the upcoming
 date: "2026-01-01"
 toc: false
 categories:
-  - reviews
+  - Reviews
 ---
 
 
