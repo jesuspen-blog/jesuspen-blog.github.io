@@ -1,0 +1,25 @@
+---
+title: "M&A Studies - 1"
+description: "First blog of my studies in M&A"
+date: "2026-01-25"
+toc: false
+categories:
+  - Study
+---
+
+Its been a while since my last post. Things got a lot busier the last couple weeks. More demanding activities in my junior program at Samsung, Meeting friends and former colleagues, and spending time reading materials related to M&A deal processes. I plan to continue studying about the M&A process in general, until I actually begin my work at SFMI. Since there is a lot of things to cover, I'm planning to leave behind these blogs so that they dont vaporize. Also, since most of the material I use is written in Korean, I plan to document this blog series in Korean as well.
+
+## 사용한 자료
+
+공부에 활용할 자료는 크게 두가지이다. 첫번째는 `M&A 거래와 PMI 전략`, `M&A 거래의 기술`라는 두 권의 책이다. 두번째는 PwC에서 제공하는 `M&A 가이드북`이다. In hindsight, 굳이 두 권의 책을 모두 참고할 필요는 없었을 것 같다는 생각이 든다. 다루는 내용이 많이 겹치기도 하고, 전반적으로 두번째 책이 Coverage, Detail, Quality 모두 앞선다고 느껴졌기 때문이다. 두 권의 책을 통해 입문자의 시선에서 M&A 프로세스 전반에 대한 지식을 얻고, PwC의 가이드북을 통해서는 보다 구체적인 절차, 실제 예시 자료 등을 통해 실무 감각을 조금이라도 느껴보는 것이 주 목표이다. 주변에 PE, IB를 준비하는 친구가 실무에서도 참고하는 자료라고 추천해주었으니, 아무래도 입문용으로는 제일 무난한 자료일 것이라고 생각된다.
+
+## M&A 프로세스의 개괄
+
+M&A 프로세스를 Step 단위로 쪼개는 것은 얼마나 구체적으로 나눌 것이냐에 따라 다르지만, 일반적으로는 다음과 같이 나눠볼 수 있다. 
+
+  + 거래 의향 확인
+  + 비밀유지확약서(c) 체결
+  + Korean Air 'General' Hire
+  + Orion Snacks Global Procurement Role
+  + Hyundai Card Product Development Role
+  + ..... to a total of 15 applications

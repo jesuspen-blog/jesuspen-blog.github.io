@@ -6,9 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="">
+<meta name="author" content="HyoungSoo Kim">
+<meta name="dcterms.date" content="2026-01-25">
+<meta name="description" content="First blog of my studies in M&amp;A">
 
-<title>Blog – 김형수</title>
+<title>M&amp;A Studies - 1 – 김형수</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,27 +26,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../favicon.ico" rel="icon">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,79 +72,22 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Blog – 김형수">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="M&amp;A Studies - 1 – 김형수">
+<meta property="og:description" content="First blog of my studies in M&amp;A">
 <meta property="og:site_name" content="김형수">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">김형수</span>
     </a>
   </div>
@@ -155,11 +98,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -179,192 +122,72 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">M&amp;A Studies - 1</h1>
+                  <div>
+        <div class="description">
+          First blog of my studies in M&amp;A
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Study</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>HyoungSoo Kim </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">January 25, 2026</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QW5lY2RvdGVz">Anecdotes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QW5ub3VuY2VtZW50">Announcement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmV2aWV3cw==">Reviews <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3R1ZHk=">Study <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Its been a while since my last post. Things got a lot busier the last couple weeks. More demanding activities in my junior program at Samsung, Meeting friends and former colleagues, and spending time reading materials related to M&amp;A deal processes. I plan to continue studying about the M&amp;A process in general, until I actually begin my work at SFMI. Since there is a lot of things to cover, I’m planning to leave behind these blogs so that they dont vaporize. Also, since most of the material I use is written in Korean, I plan to document this blog series in Korean as well.</p>
+<section id="사용한-자료" class="level2">
+<h2 class="anchored" data-anchor-id="사용한-자료">사용한 자료</h2>
+<p>공부에 활용할 자료는 크게 두가지이다. 첫번째는 <code>M&amp;A 거래와 PMI 전략</code>, <code>M&amp;A 거래의 기술</code>라는 두 권의 책이다. 두번째는 PwC에서 제공하는 <code>M&amp;A 가이드북</code>이다. In hindsight, 굳이 두 권의 책을 모두 참고할 필요는 없었을 것 같다는 생각이 든다. 다루는 내용이 많이 겹치기도 하고, 전반적으로 두번째 책이 Coverage, Detail, Quality 모두 앞선다고 느껴졌기 때문이다. 두 권의 책을 통해 입문자의 시선에서 M&amp;A 프로세스 전반에 대한 지식을 얻고, PwC의 가이드북을 통해서는 보다 구체적인 절차, 실제 예시 자료 등을 통해 실무 감각을 조금이라도 느껴보는 것이 주 목표이다. 주변에 PE, IB를 준비하는 친구가 실무에서도 참고하는 자료라고 추천해주었으니, 아무래도 입문용으로는 제일 무난한 자료일 것이라고 생각된다.</p>
+</section>
+<section id="ma-프로세스의-개괄" class="level2">
+<h2 class="anchored" data-anchor-id="ma-프로세스의-개괄">M&amp;A 프로세스의 개괄</h2>
+<p>M&amp;A 프로세스를 Step 단위로 쪼개는 것은 얼마나 구체적으로 나눌 것이냐에 따라 다르지만, 일반적으로는 다음과 같이 나눠볼 수 있다.</p>
+<ul>
+<li>거래 의향 확인</li>
+<li>비밀유지확약서(c) 체결</li>
+<li>Korean Air ‘General’ Hire</li>
+<li>Orion Snacks Global Procurement Role</li>
+<li>Hyundai Card Product Development Role</li>
+<li>….. to a total of 15 applications</li>
+</ul>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="U3R1ZHk=" data-listing-date-sort="1769266800000" data-listing-file-modified-sort="1769334219317" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
-<div class="thumbnail"><a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">M&amp;A Studies - 1</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3R1ZHk='); return false;">Study</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">
-<p>First blog of my studies in M&amp;A</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">
-<div class="listing-date">
-Jan 25, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="U3R1ZHk=" data-listing-date-sort="1768057200000" data-listing-file-modified-sort="1768129031235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="471">
-<div class="thumbnail"><a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">
-
-<p class="card-img-top"><img src="Using NotebookLM for Quick Studies\NLM_Red.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">Using NotebookLM for Quick Studies</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3R1ZHk='); return false;">Study</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">
-<p>Using NotebookLM to make an introductory guideline for strategic M&amp;A in the insurance sector</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">
-<div class="listing-date">
-Jan 11, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="UmV2aWV3cw==" data-listing-date-sort="1767193200000" data-listing-file-modified-sort="1768129024716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="890">
-<div class="thumbnail"><a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">Labor Competitiveness Re-defined With AGI</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmV2aWV3cw=='); return false;">Reviews</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">
-<p>An interesting framework to define competitiveness in the upcoming AGI era</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="QW5lY2RvdGVz" data-listing-date-sort="1766242800000" data-listing-file-modified-sort="1769326078102" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2984">
-<div class="thumbnail"><a href="../posts/Job-Search/index.html" class="no-external">
-
-<p class="card-img-top"><img src="Job-Search\HT_Smoke.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Job-Search/index.html" class="no-external">Job Search in 2025</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QW5lY2RvdGVz'); return false;">Anecdotes</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Job-Search/index.html" class="no-external">
-<p>An anecdote of my job search process in 2025</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Job-Search/index.html" class="no-external">
-<div class="listing-date">
-Dec 21, 2025
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="QW5ub3VuY2VtZW50" data-listing-date-sort="1766156400000" data-listing-file-modified-sort="1768129476198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
-<div class="thumbnail"><a href="../posts/Hello-Quarto/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Hello-Quarto/index.html" class="no-external">Hello, Quarto</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QW5ub3VuY2VtZW50'); return false;">Announcement</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Hello-Quarto/index.html" class="no-external">
-<p>Starting my first blog in quarto</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Hello-Quarto/index.html" class="no-external">
-<div class="listing-date">
-Dec 20, 2025
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
