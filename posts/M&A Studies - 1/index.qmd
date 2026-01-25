@@ -17,9 +17,37 @@ Its been a while since my last post. Things got a lot busier the last couple wee
 
 M&A 프로세스를 Step 단위로 쪼개는 것은 얼마나 구체적으로 나눌 것이냐에 따라 다르지만, 일반적으로는 다음과 같이 나눠볼 수 있다. 
 
+  + M&A 동기, 목표 및 전략의 구조화
+  + 타깃 선정
   + 거래 의향 확인
-  + 비밀유지확약서(c) 체결
-  + Korean Air 'General' Hire
-  + Orion Snacks Global Procurement Role
-  + Hyundai Card Product Development Role
-  + ..... to a total of 15 applications
+  + 비밀유지확약서(CA; Confidential Agreement) 체결
+  + 예비적 제안 (LOI; Letter of Intent)
+  + 텀시트 체결 (Termsheet, MOU)
+  + 실사 (DD; Due Diligence)
+  + 본계약 체결 및 클로징 (DA; Definitive Agreement)
+
+이 외에도 DD 과정부터 병행되는 PMI(Post-Merger Integration)등의 주요한 프로세스도 존재하지만, 가장 뼈대가 되는 프로세스들을 단계별로 나눠본 것이다.
+
+여기서 각각의 프로세스에 대한 간략한 정리를 해보자.
+
+## M&A 동기, 목표 및 전략의 구조화
+
+대기업에서는 이와 같은 동기, 목표 및 전략은 이미 주어져있거나, 위에서 결정되어 내려오는 경우가 일반적일 것 같다. 하지만, M&A의 성공을 위해서는 이 단계가 가장 중요하다는 점은 분명한 듯 하다. 
+
+기업이 성장을 위해서 택할 수 있는 방법은 크게 두가지로, 내부적 성장(Organic Growth), 외부적 성장(Inorganic Growth)이다. M&A는 대표적인 Inorganic Growth 방법으로, 신속한 성장 및 규모의 경제 달성에 유리하다는 장점을 가진다. 단, 과연 해당 기업의 동기 및 목표를 점검할 때, M&A가 최선인지는 엄밀하게 따져보아야 한다. 만일 해당 지역의 매물이 지나치게 고평가돼있다면 당장의 M&A 보다는 Organic Growth에 집중하는 것이 더 효율적일 수도 있다. 또한, M&A에 적합한 매물이 있더라도 JV, 소수지분(Minority) 투자, 전략적 제휴가 유효할 수도 있다. 삼성화재가 베트남의 PJICO를 인수한 것과 중국의 텐센트와 JV를 체결한 것이 이를 대표적으로 보여주는 사례라고 볼 수 있다. 베트남의 보험사의 경우, 상대적으로 인수가가 합리적이기에 인수를 하는 것이 간편하면서도 주도권을 확실히 가져올 수 있는 선택이었을 것이다. 반면, 중국의 경우에는 JV를 활용해 규제&정치적 리스크를 피하면서 텐센트의 'Dominant 플랫폼에 대한 접근성'이라는 핵심 역량만을 얻은 것이 가장 합리적인 선택이었다고 볼 수 있다.
+
+M&A의 목표는 다양하지만, SI 투자자로서의 목표는 `해외 사업 확장`, `시너지 창출`, `인력 확보`의 3가지가 핵심이라고 볼 수 있다. 즉, 타겟사가 최적의 M&A 대상인지에 대한 평가 역시 이 3가지 목표에 대한 충분한 Merit을 제공하는지를 중점적으로 이루어져야 한다.
+
+또한, M&A 전략 방향성 역시 고려해야 한다. 삼성화재의 경우, 크게 `Bolt-On M&A`와 `Platform(P/F) M&A`로 나누어 볼 수 있다.
+
+## Comparative Analysis: Bolt-on vs. Platform M&A for SFMI
+
+| Feature | **Bolt-on M&A** (Extending Existing Subsidiaries) | **Platform (P/F) M&A** (New Market/Business Entry) |
+|:---|:---|:---|
+| **Primary Goal** | Market share gain and cost synergies. | Capabilities, new geography, or new product lines. |
+| **Strengths** | **Lower Risk:** Leverages existing local market/regulatory knowledge.<br>**Efficiency:** High potential for "Multiple Arbitrage" and overhead reduction. | **Speed to Market:** Instant scale in a new region.<br>**New Talent:** Acquisition of a full management team and localized underwriting expertise. |
+| **Weaknesses** | **Limited Reach:** Does not necessarily open new doors; mostly deepens existing ones.<br>**Growth Ceiling:** Organic limits to how much you can bolt on. | **High Cost:** Requires a significant "Control Premium."<br>**High Risk:** Exposure to unfamiliar regulatory/legal landscapes and macro risks. |
+| **PMI Difficulty** | **Easier to Moderate:** Focus is on *absorption* into existing SFMI infrastructure. | **Hard to Very Hard:** Focus is on *co-existence* and balancing autonomy with governance. |
+| **Strategic Fit** | Ideal for strengthening established hubs (e.g., SE Asia or US branches). | Ideal for entering major new markets (e.g., European specialty insurance). |
+
+: Comparison of M&A Strategies for Global Insurance Expansion {tbl-colwidths="[20,40,40]"}
