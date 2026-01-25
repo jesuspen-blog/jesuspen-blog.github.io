@@ -1,28 +1,24 @@
 #!/bin/bash
 
-echo "---------------------------------------"
-echo "Step 1: Rendering Quarto Project..."
-echo "---------------------------------------"
+echo "Rendering Quarto Project..."
 quarto render
 
-# Check if render was successful
 if [ $? -eq 0 ]; then
-    echo "---------------------------------------"
-    echo "Step 2: Pushing to GitHub..."
-    echo "---------------------------------------"
+    # Optional: ensure .nojekyll exists if using docs/
+    touch docs/.nojekyll 
     
     git add .
     
-    # Use the current date/time as the commit message
-    current_time=$(date "+%Y-%m-%d %H:%M:%S")
-    git commit -m "Site update: $current_time"
-    
-    git push origin main
-    
-    echo "---------------------------------------"
-    echo "Success! Your blog is updating."
-    echo "---------------------------------------"
+    # Check if there are actually changes to commit
+    if git diff-index --quiet HEAD --; then
+        echo "No changes detected. Nothing to push."
+    else
+        current_time=$(date "+%Y-%m-%d %H:%M:%S")
+        git commit -m "Site update: $current_time"
+        git push origin main
+        echo "Success! Your blog is updating."
+    fi
 else
-    echo "Render failed. Please check your .qmd files for errors."
+    echo "Render failed."
     exit 1
 fi
