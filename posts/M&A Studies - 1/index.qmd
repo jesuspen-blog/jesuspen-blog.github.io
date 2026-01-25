@@ -40,7 +40,7 @@ M&A의 목표는 다양하지만, SI 투자자로서의 목표는 `해외 사업
 
 또한, M&A 전략 방향성 역시 고려해야 한다. 삼성화재의 경우, 크게 `Bolt-On M&A`와 `Platform(P/F) M&A`로 나누어 볼 수 있다.
 
-## Comparative Analysis: Bolt-on vs. Platform M&A for SFMI
+### Comparative Analysis: Bolt-on vs. Platform M&A for SFMI
 
 | Feature | **Bolt-on M&A** (Extending Existing Subsidiaries) | **Platform (P/F) M&A** (New Market/Business Entry) |
 |:---|:---|:---|
@@ -51,3 +51,50 @@ M&A의 목표는 다양하지만, SI 투자자로서의 목표는 `해외 사업
 | **Strategic Fit** | Ideal for strengthening established hubs (e.g., SE Asia or US branches). | Ideal for entering major new markets (e.g., European specialty insurance). |
 
 : Comparison of M&A Strategies for Global Insurance Expansion {tbl-colwidths="[20,40,40]"}
+
+요지는 기존의 존재하는 Organic 자회사들에 팔다리를 붙여주는 형태의 해외 사업 확장이 유리할 것인지, 아니면 보다 큰 규모의 플랫폼사를 그대로 인수하여 빠른 시장 진입 및 Presence 확보가 유리할 것인지에 대한 판단이 중요하다는 것이다. 전자는 보다 용이한 PMI & 컴플라이언스 등의 Alignment의 장점이 있을 것이고, 후자는 Growth Cap & Human Capital 측면의 장점 등이 있기에 각각의 장점을 면밀히 계산하여 움직여야 할 것이다.
+
+## 타겟 선정
+
+위의 Preliminary 단계를 넘어선 이후에 비로소 M&A 대상을 찾아나서게 된다. 인수 타겟을 선정하는 데는 크게 3가지 기준이 존재한다.
+
+  + 전략적 부합 여부
+    - 당연하게도, 위에서 정의한 전략적 목표 및 동기에 부합해야 한다. M&A 자체에 휩쓸려 기존의 목표를 잊게된다면, 해당 인수는 오히려 독이 된다.
+  + 핵심 역량 보유 여부
+    - 타겟사를 인수하는 이유는 모종의 핵심 역량을 취득하기 위해서이다. 브랜드, 인력, 기술 등에 있어서 실제로 요구되는 역량을 보유하고 있는지 점검해야 한다.
+  + 재무적 기준 충족 여부
+    - M&A를 진행하는 것 자체만으로 많은 비용이 소모된다. 인수하는 회사가 충분한 규모의 매출과 수익률을 내고 있는지 역시 '주주가치의 극대화'라는 M&A의 근본적인 동기에 주요한 평가 요소가 된다.
+
+보다 구체적인 기준으로는 다음과 같은 예시를 들어볼 수 있다.
+
+  + 산업
+    - M&A 대상 산업군 설정. 'Top10 내의 회사만을 검토' 등과 같은 Filtering 기준 설정
+  + 매출액
+    - 인수사의 규모에 따라, 일정 매출액 규모을 기준으로 삼을 수 있다.
+  + 수익성
+    - 마찬가지로, 영업이익률 or n년간 영업 흑자 여부 등
+  + 특정 자산
+    - 유/무형자산, Human Capital 등 매력도 등
+  + 지분율 수준
+    - 연결 목적(50%+1) / 합병 목적(100%) 등
+  + 커버리지
+    - 지역 / 고객군에 대한 접근성 증대 등
+
+일반적으로는 타겟사를 M&A 자문사(IB, 회계법인, 부띠끄 등)으로 부터 소싱을 받고, 이를 이러한 기준에 따라 필터링해 나가는 구조를 거친다. 그러나, Private Deal을 진행하고자 하는 경우에는 오히려 선제적으로 해당 기준에 따라 직접 Reach Out하는 능동적 타깃 선정 프로세스를 진행하기도 한다. 이 경우 일반적으로 검토 대상의 Long Listing, 1차 재무 기준 Filtering, 2차 비재무 기준 Filtering을 거쳐 대상 기업 Short-Listing으로 마무리된다.
+
+일부 옥션딜을 제외하면 대부분의 딜은 Private Deal로 이루어진다. 그렇기에 성공적인 M&A를 위해서는 넓은 네트워크와 채널에 대한 접근성을 가지는 것이 필수불가결하다. 대표적인 채널들은 다음과 같다.
+
+  + M&A 자문사
+    - IB, 회계법인, M&A 부띠크 등, Deal 중개/주선이 주 영업활동인 Player.
+  + FI 투자자
+    - PE, VC등, 투자한 기업의 M&A 니즈 정보 제공 or 직접 매각하는 경우도 존재.
+  + 금융기관
+    - 은행 기업 여신 담당자 등(RM).
+  + 기타 유관 기관
+    - 기업 내부 현업 부서, 협회, 전시회 등 종사자 간 직접 교류 기회가 발생하는 자리.
+
+핵심은 네트워크의 깊이 보다는 ***다양성과 넓이***에 있다는 것이다. 넓은 네트워크에 위에서 정의한 기준을 공유해 둔다면, 적합한 정보 알선 기회가 압도적으로 높아질 수 있다.
+
+## 마무리
+
+이번 포스팅은 M&A의 Prelim Process에 대해 다루는 것으로 마무리다. 다음 포스팅은 본격적인 거래의 시작과 Deal Structuring에 대한 내용을 돌아올 예정!
