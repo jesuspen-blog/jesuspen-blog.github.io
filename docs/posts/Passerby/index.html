@@ -6,9 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="">
+<meta name="author" content="HyoungSoo Kim">
+<meta name="dcterms.date" content="2026-02-22">
+<meta name="description" content="Anecdote">
 
-<title>Blog – 김형수</title>
+<title>Passerby – 김형수</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,27 +26,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../favicon.ico" rel="icon">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,79 +72,22 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Blog – 김형수">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Passerby – 김형수">
+<meta property="og:description" content="Anecdote">
 <meta property="og:site_name" content="김형수">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">김형수</span>
     </a>
   </div>
@@ -155,11 +98,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -179,222 +122,61 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Passerby</h1>
+                  <div>
+        <div class="description">
+          Anecdote
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Anecdotes</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>HyoungSoo Kim </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 22, 2026</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QW5lY2RvdGVz">Anecdotes <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QW5ub3VuY2VtZW50">Announcement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmV2aWV3cw==">Reviews <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3R1ZHk=">Study <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>대학교 초년생 시절, 우연히 알게 된 선배가 있었다. 그 계기는 입학한 직후, 무작정 기타를 배워보겠다고 학교의 클래식 기타 동아리에 입부한 것. 이 동아리의 특이점은 기수마다 단체 연주 공연을 준비해서 올리는 것, 그리고 반기마다 설악산, 지리산 등 유명한 산에 OB와 YB 함께 팀을 짜서 오른다는 것이었다.</p>
+<p>이 선배는 당시 겨울 설악산을 오르면서 같은 팀으로 배정된 선배였다. 이미 상당히 시간이 지나 기억나는 것은 많지 않지만, 선배가 어떤 사람이었는지는 아직도 명확할 정도로 인상적인 사람이었다. 산을 오를 때는 누구보다도 든든하고, 함께 이야기 나눌 때는 특유의 텐션으로 주변사람을 즐겁게 해주고, 무언가 실수했을 때는 배려심을 보여주는 사람이었다. 완전히 극 내향인이었던 내가, 등산이 끝난 술자리에서 그렇게 즐겁게 이야기 나누고 놀 수 있었던 것 역시 그 때문이었다. 사람이 좋았기 때문일까, 그는 심지어 이 여행을 통해 사랑도 싹 틔우고 떠났던 것으로 기억한다.</p>
+<p>하지만 대부분의 스쳐지나가는 인연이 그렇듯이 나는 곧 입대를 했고, 그 이후에는 코로나가 터지는 바람에 동아리 활동에서 자연스레 멀어졌다. 품을 들여 연락을 이어가거나, 동아리 활동에 다시 참여할 수도 있었겠지만 당장의 학업, 취업 고민, 연애에 치여 그렇지는 못했다. 그렇게 그는 내가 잊은 사람 중 하나가 됐다.</p>
+<p>1년 반쯤 전일까, 갑자기 그에게서 카톡이 왔다. 한창 인턴 중, 밤을 새워가며 일을 하던 시절이었다. 예상치 못한 그의 이름을 보고 반가운 마음에 열어본 카톡은 야속하게도 그의 누나가 보내온 것이었다. 그의 부고를 전달하기 위한 연락이었다. 당연히 그 이유도, 경황도 물어볼 수 없었다. 연이 끊긴지 오랜 사람인 나에게 그런 것을 물을 권리가 있었다고 생각하지 않았다. 그 와중에 순간 마음이 철렁했던 내가 참 위선적이고, 한편으로는 염치없다고 생각이 들었을 뿐이었다. 그 와중에 그의 카톡 스토리에 있는 결혼을 암시하는 사진들은 내 부끄러운 상상만을 키워, 가상의 비극을 키워갈 뿐이었다.</p>
+<p>야속하게도 나는 다시 바쁜 일상, 여유 없는 취준, 복잡 피곤한 일상사 속에서 다시금 선배를 잊어갔다. 그러다가 오늘, 갑자기 카톡 메인의 프로필 업데이트에 그의 이름이 떴다. 낯선 사람의 사진이 올라와있었다. “선배의 전화번호가 다른 사람에게 넘어갔구나.”라는 사실을 곧 깨달았다. 다시 한번 기분이 가라앉았다. 이번에 달랐던 것은 내가 느끼는 감정을 무엇이라고 이름 붙여야 할지 감이 오지 않는다는 것 정도일까?</p>
+<p>올해 달력에는 선배의 기일을 기록해두었다. 많은 것이 안정되기 시작한 지금, 한번 찾아뵙기 위해서다. 멋대로 잊어놓고, 멋대로 찔려하고, 그리고 멋대로 끝맺음을 하기 위해서일지도 모르지만. 이기적이라는 생각도 들지만, 참 못 배기겠다.</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QW5lY2RvdGVz" data-listing-date-sort="1771686000000" data-listing-file-modified-sort="1771757792616" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="330">
-<div class="thumbnail"><a href="../posts/Passerby/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Passerby/index.html" class="no-external">Passerby</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QW5lY2RvdGVz'); return false;">Anecdotes</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Passerby/index.html" class="no-external">
-<p>Anecdote</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Passerby/index.html" class="no-external">
-<div class="listing-date">
-Feb 22, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="U3R1ZHk=" data-listing-date-sort="1769266800000" data-listing-file-modified-sort="1769340253944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1165">
-<div class="thumbnail"><a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">M&amp;A Studies - 1</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3R1ZHk='); return false;">Study</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">
-<p>First blog of my studies in M&amp;A</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/M&amp;A Studies - 1/index.html" class="no-external">
-<div class="listing-date">
-Jan 25, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="U3R1ZHk=" data-listing-date-sort="1768057200000" data-listing-file-modified-sort="1768129031235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="471">
-<div class="thumbnail"><a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">
-
-<p class="card-img-top"><img src="Using NotebookLM for Quick Studies\NLM_Red.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">Using NotebookLM for Quick Studies</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3R1ZHk='); return false;">Study</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">
-<p>Using NotebookLM to make an introductory guideline for strategic M&amp;A in the insurance sector</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Using NotebookLM for Quick Studies/index.html" class="no-external">
-<div class="listing-date">
-Jan 11, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="UmV2aWV3cw==" data-listing-date-sort="1767193200000" data-listing-file-modified-sort="1768129024716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="890">
-<div class="thumbnail"><a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">Labor Competitiveness Re-defined With AGI</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmV2aWV3cw=='); return false;">Reviews</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">
-<p>An interesting framework to define competitiveness in the upcoming AGI era</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Competitiveness Defined With AGI/index.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2026
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="QW5lY2RvdGVz" data-listing-date-sort="1766242800000" data-listing-file-modified-sort="1769339647990" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2984">
-<div class="thumbnail"><a href="../posts/Job-Search/index.html" class="no-external">
-
-<p class="card-img-top"><img src="Job-Search\HT_Smoke.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Job-Search/index.html" class="no-external">Job Search in 2025</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QW5lY2RvdGVz'); return false;">Anecdotes</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Job-Search/index.html" class="no-external">
-<p>An anecdote of my job search process in 2025</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Job-Search/index.html" class="no-external">
-<div class="listing-date">
-Dec 21, 2025
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="QW5ub3VuY2VtZW50" data-listing-date-sort="1766156400000" data-listing-file-modified-sort="1768129476198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
-<div class="thumbnail"><a href="../posts/Hello-Quarto/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/Hello-Quarto/index.html" class="no-external">Hello, Quarto</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QW5ub3VuY2VtZW50'); return false;">Announcement</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/Hello-Quarto/index.html" class="no-external">
-<p>Starting my first blog in quarto</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/Hello-Quarto/index.html" class="no-external">
-<div class="listing-date">
-Dec 20, 2025
-</div>
-<div class="listing-author">
-HyoungSoo Kim
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
