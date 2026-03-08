@@ -1,6 +1,6 @@
 ---
 title: "M&A Studies - 3"
-description: "Continuation of M&A study materials"
+description: "M&A Workplan to Valuation Approaches"
 date: "2026-03-08"
 toc: false
 categories:
@@ -116,4 +116,4 @@ $WACC = \left( \frac{E}{E+D} \times r_e \right) + \left( \frac{D}{E+D} \times r_
 
 ## 마무리
 
-이번 포스팅은 M&A의 Deal Structuring에 대해 다루는 것으로 마무리다. 다음 포스팅은 M&A 예비적 제안 부터 Valuation & DD 까지 다뤄볼 예정!
+이번 포스팅은 대표적인 두가지 Valuation Method에 대해 다루는 것으로 마무리다. 다음 포스팅은 DD 과정과 고려해야할 사항들을 중점적으로 다룰 예정!
