@@ -1,6 +1,6 @@
 ---
 title: "M&A Studies - 2"
-description: "Continuation of M&A study materials"
+description: "Covers Deal Proposals to Deal Structuring"
 date: "2026-02-23"
 toc: false
 categories:
@@ -20,7 +20,7 @@ categories:
   + 실사 (DD; Due Diligence)
   + 본계약 체결 및 클로징 (DA; Definitive Agreement)
 
-이번 포스팅은 거래 의향 확인부터 거래 방식의 선택, Deal Structuring 및 예비적 제안까지 다뤄보고자 한다.
+이번 포스팅은 거래 의향 확인부터 거래 방식의 선택, Deal Structuring까지 다뤄보고자 한다.
 
 ## 거래 의향의 확인
 
