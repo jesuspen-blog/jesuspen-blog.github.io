@@ -1,6 +1,6 @@
 ---
 title: "Predicting the Unpredictable: Natural Catastrophes and the 'Black Swan'" 
-description: "Insights from the Swiss Re sigma 1/2026 report on why we must expect the unexpectable in general insurance." 
+description: "Insights from the Swiss Re sigma 1/2026 report on how we attempt to manage the unexpectable in general insurance." 
 date: "2026-03-30" 
 toc: false
 categories:
