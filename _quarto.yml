@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    # 렌더 대상을 .qmd로 한정한다.
+    # 루트의 CLAUDE.md(작업 규칙 문서)가 웹페이지로 발행되는 것을 막기 위함.
+    - "*.qmd"
+    - "posts/**/*.qmd"
   resources:
     - vita/resume-soo.pdf
 
