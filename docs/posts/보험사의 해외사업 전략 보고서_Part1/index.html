@@ -72,6 +72,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -168,42 +171,62 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>해외사업 동향·전망 보고서를 쓸 때마다 처음부터 다시 고민하는 기분이 든다. 그런데 몇 번 쓰다 보니 결국 보는 지표와 논리를 세우는 순서는 정해져 있었다. 그 틀을 정리해둔다.</p>
-<section id="출발점-손익을-두-갈래로-쪼갠다" class="level2">
-<h2 class="anchored" data-anchor-id="출발점-손익을-두-갈래로-쪼갠다">출발점: 손익을 두 갈래로 쪼갠다</h2>
-<p>보험사의 실적은 보험손익과 금융손익으로 나뉜다. 실적이 왜 좋아졌고 왜 나빠졌는지 설명하려면 이 둘을 섞지 않는 데서 시작해야 한다. 움직이는 원리가 다르기 때문이다. 보험손익은 시장의 요율과 사고가 결정하고, 금융손익은 금리가 결정한다.</p>
+<section id="보고서가-흘러가는-순서" class="level2">
+<h2 class="anchored" data-anchor-id="보고서가-흘러가는-순서">보고서가 흘러가는 순서</h2>
+<p>손익을 두 갈래로 쪼개는 것부터 이야기하고 싶었는데, 그건 사실 더 큰 흐름 안의 한 조각이다. 이 종류의 보고서는 결국 이렇게 흘러간다.</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+    subgraph HH["현황"]
+        direction LR
+        A(["Macro 분석"]) --&gt;|기준 수립| B(["개별 Player&lt;br&gt;실적 분석"])
+    end
+    subgraph JM["전망"]
+        direction LR
+        C(["Macro 전망"]) --&gt; D(["Player 전략&lt;br&gt;방향성"]) --&gt; E(["당사 전략 방향&lt;br&gt;So What"])
+    end
+    B ==&gt;|같은 틀로| C
+
+    classDef node fill:#eaf2fc,stroke:#2780e3,stroke-width:1.2px,color:#1c3d5c,rx:10,ry:10
+    class A,B,C,D,E node
+    style HH fill:#ffffff,stroke:#d7e1ec,stroke-width:1.5px,color:#2780e3
+    style JM fill:#ffffff,stroke:#d7e1ec,stroke-width:1.5px,color:#2780e3
+    linkStyle default stroke:#8aa0b8,stroke-width:1.2px
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>현황은 Macro 분석에서 시작해 개별 Player 실적으로 내려간다. Macro를 요율·손해율·금리로 쪼개서 보는 게 바로 그 첫 단계고, 이렇게 세운 기준이 있어야 각 Player의 실적을 제대로 읽을 수 있다. 전망은 그 반대 방향이다. Macro가 앞으로 어떻게 움직일지 먼저 잡고, 그 안에서 각 Player가 어떤 전략 방향을 취하는지 확인한 다음, 마지막에 당사는 그래서 뭘 해야 하는지로 마무리된다.</p>
+<p>Macro 분석과 Player 실적 분석이 따로 노는 게 아니라는 점이 중요하다. Macro 기준을 세워야 Player 실적이 macro 때문에 그런 건지 그 회사 고유의 문제인지 구분할 수 있다.</p>
 </section>
-<section id="보험손익" class="level2">
-<h2 class="anchored" data-anchor-id="보험손익">보험손익</h2>
-<section id="요율-자본을-먼저-본다" class="level3">
-<h3 class="anchored" data-anchor-id="요율-자본을-먼저-본다">요율 — 자본을 먼저 본다</h3>
+<section id="현황-1-macro를-두-갈래로-쪼갠다" class="level2">
+<h2 class="anchored" data-anchor-id="현황-1-macro를-두-갈래로-쪼갠다">현황 1: Macro를 두 갈래로 쪼갠다</h2>
+<p>보험사의 실적은 보험손익과 금융손익으로 나뉜다. 움직이는 원리가 다르기 때문에 여기서부터 갈라서 봐야 한다. 보험손익은 시장의 요율과 사고가 결정하고, 금융손익은 금리가 결정한다.</p>
+<section id="보험손익" class="level3">
+<h3 class="anchored" data-anchor-id="보험손익">보험손익</h3>
 <p>보험손익의 첫 번째 동인은 요율이다. 원수 요율일 수도 있고 재보험 요율일 수도 있다. 이 사업에서 가장 큰 매크로 변수다. 그래서 움직임을 최대한 가까이서 따라가야 한다.</p>
-<p>요율의 방향을 보려면 무엇이 요율을 움직이는지부터 알아야 한다. 자본, 즉 Capacity다.</p>
-<p>시장에 보험을 인수할 자본이 충분하면 원수사와 재보험사 사이의 경쟁이 심해진다. 경쟁이 심해지면 요율은 내려간다. Soft Market이다. 그렇게 시간이 지나 요율이 너무 낮아진 상태에서 대형 손실이 터지면 자본이 시장을 빠져나가고, 요율은 다시 올라간다. Hard Market이다. 이게 요율 사이클의 기본 원리다.</p>
+<p>요율의 방향을 보려면 무엇이 요율을 움직이는지부터 알아야 한다. 자본, 즉 Capacity다. 시장에 보험을 인수할 자본이 충분하면 원수사와 재보험사 사이의 경쟁이 심해진다. 경쟁이 심해지면 요율은 내려간다. Soft Market이다. 그렇게 시간이 지나 요율이 너무 낮아진 상태에서 대형 손실이 터지면 자본이 시장을 빠져나가고, 요율은 다시 올라간다. Hard Market이다. 이게 요율 사이클의 기본 원리다.</p>
 <p>그래서 시장의 자본 변화를 먼저 추적한다. AON이 반기마다 내는 <code>Global Reinsurance Market Dynamics</code> 리포트를 본다. 여기서 Global Reinsurer Capital을 가져오는데, Traditional과 3rd party를 나눠서 봐야 한다. ILS, Sidecar, PE 등이 포함된 3rd party는 Traditional보다 변동성이 크다. 숫자가 얼마나 변했는지만이 아니라 왜 변했는지까지 따라가야 하는 이유다.</p>
+<p>자본을 봤으면 실제 요율을 본다. 1차 소스는 Marsh의 <code>Global Insurance Market Index(GIMI)</code>다. 직전 분기 대비 요율 변동률을 LoB별, 지역별로 퍼센트로 준다. 다만 한계가 있다. GIMI가 주는 건 원수 요율이다. 해외사업의 상당 부분이 재보험이라면 이것만으로는 부족해서, 재보험 요율은 <code>WTW</code>나 <code>Gallagher Re</code>의 리포트를 따로 본다.</p>
+<p>두 번째 동인은 손해율이고, 손해율 이야기는 대부분 Natcat으로 수렴한다. <code>Swiss Re Sigma</code>의 Natcat 리포트를 본다. 지금 Natcat이 어떤 상황인지, 예년보다 늘었는지 줄었는지, 앞으로의 전망은 어떤지를 확인한다.</p>
 </section>
-<section id="요율-자체" class="level3">
-<h3 class="anchored" data-anchor-id="요율-자체">요율 자체</h3>
-<p>자본을 봤으면 실제 요율을 본다.</p>
-<p>1차 소스는 Marsh의 <code>Global Insurance Market Index(GIMI)</code>다. 직전 분기 대비 요율 변동률을 LoB별, 지역별로 퍼센트로 준다. 다만 한계가 있다. GIMI가 주는 건 원수 요율이다. 해외사업의 상당 부분이 재보험이라면 이것만으로는 부족하다. 재보험 요율은 WTW나 Gallagher Re의 리포트를 따로 본다.</p>
-</section>
-<section id="손해율-결국-natcat" class="level3">
-<h3 class="anchored" data-anchor-id="손해율-결국-natcat">손해율 — 결국 Natcat</h3>
-<p>두 번째 동인은 손해율이다. 그리고 손해율 이야기는 대부분 Natcat으로 수렴한다.</p>
-<p>Swiss Re Sigma의 Natcat 리포트를 본다. 지금 Natcat이 어떤 상황인지, 예년보다 늘었는지 줄었는지, 앞으로의 전망은 어떤지를 확인한다.</p>
+<section id="금융손익" class="level3">
+<h3 class="anchored" data-anchor-id="금융손익">금융손익</h3>
+<p>보험사의 운용자산은 대부분 채권이다. 그래서 금융손익의 최상위 변수는 금리이고, 구체적으로는 미국 국채 10년물 금리다. 아래는 금리가 오르는 상황을 기준으로 정리한다. 내리는 경우는 반대로 읽으면 된다.</p>
+<p>금리 변화는 세 갈래로 영향을 준다. 환율효과는 직관적인 부분이라 넘어가고, 나머지 둘이 좀 더 볼만하다.</p>
+<p>투자수익은 방향이 두 개라 헷갈리기 쉽다. 금리가 오르면 기존 채권과 재투자하는 채권에서 얻는 이자수익은 늘어난다. 반대로 채권의 평가손익에서는 손실이 난다. 그런데 이 손실이 P&amp;L까지 오는지는 회계상 분류에 달려 있다. 국내에서 보유한 채권은 대부분 만기보유로 잡히기 때문에 재무상태표 구성에만 영향을 준다. 반면 해외에서 보유한 채권 중 duration이 짧은 건은 공정가치, 즉 매도가능으로 분류될 수 있고, 이 경우에는 손익계산서에 그대로 반영된다.</p>
+<p>보험금융손익은 IBNR 할인효과가 핵심이다. 금리가 오르면 미래 IBNR에 적용하는 할인 폭이 커진다. 그만큼 이익 요인이 된다.</p>
 </section>
 </section>
-<section id="금융손익" class="level2">
-<h2 class="anchored" data-anchor-id="금융손익">금융손익</h2>
-<p>보험사의 운용자산은 대부분 채권이다. 그래서 금융손익의 최상위 변수는 금리이고, 구체적으로는 미국 국채 10년물 금리다.</p>
-<p>아래는 금리가 오르는 상황을 기준으로 정리한다. 내리는 경우는 반대로 읽으면 된다.</p>
-<p>금리 변화는 세 갈래로 영향을 준다.</p>
-<p><strong>환율효과.</strong> 직관적인 부분이라 여기서는 넘어간다.</p>
-<p><strong>투자수익.</strong> 여기가 양방향이라 헷갈리기 쉽다. 금리가 오르면 기존 채권과 재투자하는 채권에서 얻는 이자수익은 늘어난다. 반대로 채권의 평가손익에서는 손실이 난다. 그런데 이 손실이 P&amp;L까지 오는지는 회계상 분류에 달려 있다. 국내에서 보유한 채권은 대부분 만기보유로 잡히기 때문에 재무상태표 구성에만 영향을 준다. 반면 해외에서 보유한 채권 중 duration이 짧은 건은 공정가치, 즉 매도가능으로 분류될 수 있고, 이 경우에는 손익계산서에 그대로 반영된다.</p>
-<p><strong>보험금융손익.</strong> IBNR 할인효과가 핵심이다. 금리가 오르면 미래 IBNR에 적용하는 할인 폭이 커진다. 그만큼 이익 요인이 된다.</p>
-</section>
-<section id="누구를-보는가" class="level2">
-<h2 class="anchored" data-anchor-id="누구를-보는가">누구를 보는가</h2>
-<p>이 틀을 들고 어느 회사를 볼 것인지가 다음 문제다. 회사마다 봐야 할 이유가 다르다.</p>
+<section id="현황-2-그-틀로-player-실적을-읽는다" class="level2">
+<h2 class="anchored" data-anchor-id="현황-2-그-틀로-player-실적을-읽는다">현황 2: 그 틀로 Player 실적을 읽는다</h2>
+<p>Macro 기준이 서 있으면 개별 Player의 실적을 그 기준에 대고 평가할 수 있다. 예를 들어 요율이 오르는 국면인데도 어떤 회사의 손해율이 계속 나쁘다면, 이건 시장 전체의 문제가 아니라 그 회사 고유의 문제라는 뜻이다. 반대로 시장 전체가 Soft Market으로 가는 와중에 유독 잘 버티는 회사가 있다면, 그 회사의 사업 구성이나 U/W 역량에 이유가 있다고 봐야 한다.</p>
+<p>그래서 회사마다 왜 보는지 이유가 다르다.</p>
 <section id="lloyds-플레이어" class="level3">
 <h3 class="anchored" data-anchor-id="lloyds-플레이어">Lloyd’s 플레이어</h3>
 <p>Lloyd’s 마켓에 지분 익스포저가 있다면 이쪽 플레이어들을 따라갈 이유가 생긴다.</p>
@@ -236,10 +259,67 @@ ul.task-list li input[type="checkbox"] {
 <li>중국 : <code>PICC</code>, <code>핑안</code></li>
 <li>미국 : <code>Chubb</code>, <code>Travelers</code>, <code>Hartford</code></li>
 </ul>
-<p>여기까지가 보고서를 쓸 때 깔고 들어가는 구조다. 이 틀로 개별 회사를 실제로 어떻게 읽는지는 다음 편에서 이어서 정리한다.</p>
-
-
 </section>
+</section>
+<section id="전망-macro에서-당사-전략까지" class="level2">
+<h2 class="anchored" data-anchor-id="전망-macro에서-당사-전략까지">전망: Macro에서 당사 전략까지</h2>
+<p>현황을 다 읽었으면 전망으로 넘어간다. 순서는 똑같이 Macro에서 시작해 개별 Player로, 그리고 마지막에 당사로 좁혀온다.</p>
+<p>Macro 전망은 위에서 본 지표들이 앞으로 어느 방향으로 움직일지를 보는 것이다. 지금 요율 사이클이 Soft와 Hard 중 어디쯤에 있는지, Capacity가 더 들어올지 빠질지, Natcat 빈도 전망이 어떻게 잡히는지를 확인한다.</p>
+<p>Player 전략 방향성은 공시 자료나 실적 발표 콜의 Quote에서 가져온다. 각 Player가 지금 국면을 어떻게 읽고 있고, 어디에 힘을 싣겠다고 밝혔는지가 여기 담긴다.</p>
+<p>마지막은 당사 전략 방향, 흔히 말하는 So What이다. 여기까지 온 분석을 바탕으로 당사는 지금 뭘 해야 하는지를 결론으로 낸다.</p>
+</section>
+<section id="그런데-사실-답은-이미-정해져-있다" class="level2">
+<h2 class="anchored" data-anchor-id="그런데-사실-답은-이미-정해져-있다">그런데 사실, 답은 이미 정해져 있다</h2>
+<p>여기까지 틀을 짜놓고 보니 좀 허탈한 지점이 하나 있다. 전략 방향성이라는 게, 대부분의 경우 이미 정답이 어느 정도 나와 있다는 것이다.</p>
+<p>예를 들어 지금 같은 Soft Market 국면에서 취할 수 있는 선택지는 사실 몇 개로 정리된다.</p>
+<div id="tbl-soft-market" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-soft-market-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Soft Market 국면에서 흔히 나오는 대응 전략
+</figcaption>
+<div aria-describedby="tbl-soft-market-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">전략 축</th>
+<th style="text-align: left;">핵심 방향</th>
+<th style="text-align: left;">대표적 실행 예</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>손익 방어</strong></td>
+<td style="text-align: left;">Topline 매출보다 Bottomline 수익성. U/W Discipline 강화</td>
+<td style="text-align: left;">언더퍼폼 라인 축소, 요율이 안 맞으면 계약을 포기</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>사업 다각화</strong></td>
+<td style="text-align: left;">요율 사이클과 무관한 사업 비중 확대</td>
+<td style="text-align: left;">L&amp;H, 헬스케어, 수수료(Fee) 기반 사업</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>자본 방어</strong></td>
+<td style="text-align: left;">자기자본 훼손 최소화</td>
+<td style="text-align: left;">ILS, 사이드카 등 대체자본 활용</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>실제로 Player들을 보면 이 메뉴판 안에서 자기 사업 특성과 규모에 맞는 조합을 골라 쓰는 느낌이 강하다. 당사도 다르지 않다. 결국 새로운 전략을 발명하는 게 아니라, 이 몇 가지 선택지 중에서 우리 포트폴리오에 맞는 비중을 정하는 일에 가깝다.</p>
+<p>그래서 진짜 중요한 건 따로 있다는 생각이 든다. 전략의 정답 자체보다, Macro와 Player의 변화를 얼마나 민감하게 모니터링하고 빠르게 캐치업하고 있느냐다. 판이 바뀌는 순간을 남들보다 늦게 알아채면, 정답을 알고 있어도 이미 늦은 대응이 된다.</p>
+</section>
+<section id="마무리" class="level2">
+<h2 class="anchored" data-anchor-id="마무리">마무리</h2>
+<p>이번 포스팅은 해외사업 보고서를 쓸 때 따라가는 전체 구조를 다루는 것으로 마무리다. 다음 포스팅은 이 틀로 최근 사례들을 실제로 어떻게 읽는지 다룰 예정!</p>
+
+
 </section>
 
 </main> <!-- /main -->
